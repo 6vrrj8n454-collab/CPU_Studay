@@ -16,3 +16,5 @@
 ## 📸 仿真与综合结果
 
 ### 仿真波形图
+<img width="1910" height="1080" alt="{BC25DA4D-1DF1-457C-9CF6-2C1B8E284B84}" src="https://github.com/user-attachments/assets/8516900f-2ca7-46de-a191-76e15a222e0b" />
+<img width="653" height="163" alt="{C8A85654-EAA4-48A6-8D72-89A98B3C9DBD}" src="https://github.com/user-attachments/assets/8b0e78fc-a0c6-477d-bb7c-b6e6164816e2" />
